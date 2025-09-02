@@ -1,0 +1,54 @@
+  body{
+      background-color: rgb(34, 33, 33);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .movestyle{
+      background-color:  transparent;
+      border-style: solid;
+      border-color: white;
+      border-radius: 90px;
+      height: 120px;
+      width: 120px;
+      margin-left: 9px;
+      cursor: pointer;
+
+    }
+    .icon-size{
+      height: 50px;
+    }
+    .js-result{
+      font-size: 25px;
+      font-weight: bold;
+      margin-top: 50px;
+    }
+    .clearscore-style{
+      background-color: red;
+      font-size: 15px;
+      border: none;
+      color: white;
+      padding: 10px 10px 10px 10px;
+      border-radius: 5px;
+ 
+     cursor: pointer;
+
+    }
+    .js-autoplay{
+         background-color: purple;
+      font-size: 15px;
+      border: none;
+      color: white;
+      padding: 10px 10px 10px 10px;
+      border-radius: 5px;
+ 
+     cursor: pointer;
+    }
+    .clearscore-style:active{
+       background-color: green;
+      font-size: 15px;
+      border: none;
+      color: white;
+      padding: 10px 10px 10px 10px;
+      border-radius: 5px;
+      box-shadow: none;
+    }
